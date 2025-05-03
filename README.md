@@ -13,24 +13,24 @@ A simple, interactive text-based slot machine game implemented in JavaScript. Th
 
 ## How to Play
 1. Clone the repository:
-```bash
-git clone https://github.com/aridepai17/TEXT-BASED-SLOT-MACHINE-USING-JS.git
-```
-    
+    ```bash
+    git clone https://github.com/aridepai17/TEXT-BASED-SLOT-MACHINE-USING-JS.git
+    ```
+
 2. Navigate to the project directory:
-```bash
-cd TEXT-BASED-SLOT-MACHINE-USING-JS
-```
+    ```bash
+    cd TEXT-BASED-SLOT-MACHINE-USING-JS
+    ```
 
 3. Install the required dependencies:
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 4. Run the game:
-```bash
-node project.js
-```
+    ```bash
+    node project.js
+    ```
 
 5. Follow the on-screen instructions to play the game.
 
@@ -48,11 +48,9 @@ node project.js
 This project is licensed under the [MIT License](/LICENSE).
 You can freely use, modify, and distribute this project as long as you adhere to the terms of the MIT License.
 
-
 ## Acknowledgments
 - Thanks to the open-source community for providing resources and inspiration for this project.
 - Special thanks to the contributors of the JavaScript programming language for making this project possible.
 - This project was created as a fun exercise to practice JavaScript programming and game development concepts.
 - If you have any questions or suggestions, feel free to reach out.
 - Happy spinning!
-
